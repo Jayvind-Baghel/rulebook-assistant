@@ -96,3 +96,18 @@ login(token="Your_Hugging_face_token")
 5. Click Run All
 
 Done 🎉
+
+# 🤖 Why This Matters
+This project is a great example of how you can:
+
+* Build domain-specific AI assistants
+
+* Combine semantic search + large language models
+
+* Keep everything open-source and locally deployable
+
+# 💬 Future Ideas
+* Add a web UI using Streamlit or Gradio
+
+* Support multiple PDFs
+  
